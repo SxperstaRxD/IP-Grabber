@@ -2,13 +2,13 @@
 This tool will grab the ip address of a person when he opens the link
 
 # Steps to run this tool on linux:
-- git clone https://github.com/krishpranav/IP-Grabber
+- git clone https://github.com/SxperstaRxD/IP-Grabber
 - cd IP-Grabber
 - sudo chmod 777 *
 - bash ip-grabber.sh
 
 # Steps to run this tool on mac:
-- git clone https://github.com/krishpranav/IP-Grabber
+- git clone https://github.com/SxperstaRxD/IP-Grabber
 - cd IP-Grabber
 - sudo chmod 777 *
 - bash ip-grabber.sh
@@ -17,7 +17,7 @@ This tool will grab the ip address of a person when he opens the link
 - apt update
 - pkg update
 - pkg install git
-- git clone https://github.com/krishpranav/IP-Grabber
+- git clone https://github.com/SxperstaRxD/IP-Grabber
 - cd IP-Grabber
 - chmod +x *
 - bash ip-grabber.sh
